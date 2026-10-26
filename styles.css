@@ -1,50 +1,74 @@
-/* Student Name:
-   Register Number:
-*/
 
-/* Apply styles to all elements */
-
-
-/* Style the html element */
-
-
-/* Style the body */
-
-
-/* Style the main section */
-
-
-/* Style h1 */
-
-
-/* Style h2 */
-
-
-/* Style h3 */
-
-
-/* Style image */
-
-
-/* Style paragraph */
-
-
-/* Style blockquote */
-
-
-/* Style cite */
-
-
-/* Style unordered list */
-
-
-/* Style list items */
-
-
-/* Style the cite class */
-
-
-/* Style footer */
-
-
-/* Style footer paragraphs */
+html lab pg2 c05x_sorkin.css
+100%
+/* the styles for the elements */
+* {
+	margin: 0;
+	padding: 0;
+}
+html {
+	background-color: yellow;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 650px;
+    margin: 0 auto;
+    border: 10px double blue;
+    background-color: white;
+}
+main {
+	padding: 1.5em;
+}
+h1 {
+	font-size: 150%;
+	color: blue;
+	margin: 0;
+	padding-bottom: .5em;
+}
+h2 {
+	font-size: 125%;
+	padding-top: .5em;
+	padding-bottom: .25em;
+}
+h3 {
+	padding-top: 0;
+	padding-bottom: .25em;
+}
+img {
+	float: left;
+	margin: .5em 1em .5em 0;
+}
+p {
+	padding-bottom: .5em;
+}
+blockquote {
+	padding-bottom: .25em;
+}
+cite {
+	color: blue;
+	font-style: normal;
+}
+ul {
+	margin-left: 1.25em;
+}
+li {
+	padding-bottom: .35em;
+}
+.cite {
+	text-align: right;
+	padding-bottom: .75em;
+}
+footer {
+	margin: 0 1em;
+	padding: .5em;
+	border-top: 3px solid blue;
+}
+footer p {
+	font-size: 90%;
+	font-weight: bold;
+	text-align: center;
+	padding-top: .5em;
+	padding-bottom: .25em;
+}
+Displaying html lab pg2 c05x_sorkin.css.
